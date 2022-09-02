@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(60deg, rgb(55, 176, 212), rgb(174, 226, 205));
+  font-family: "Montserrat";
+}
+
+img {
+  width: 300px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+.card {
+  background-color: rgb(255, 250, 250);
+}
